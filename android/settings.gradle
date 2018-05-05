@@ -1,0 +1,3 @@
+rootProject.name = 'instagramNative'
+
+include ':app'
